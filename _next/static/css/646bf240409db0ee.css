@@ -433,14 +433,16 @@ video {
   display: none;
 }
 :root {
-  --color-orange: 251 115 57;
-  --color-white: 242 239 233;
-  --color-light-beige: 215 209 198;
-  --color-dark-beige: 163 155 139;
-  --color-dark-grey: 87 83 73;
+  --color-orange: 224 0 0;
+  --color-white: 235 235 235;
+  --color-light-beige: 253 253 253;
+  --color-dark-beige: 52 52 52;
+  --color-dark-grey: 100 100 100;
+  --color-light-grey: 220 220 220;
+  --color-vlight-grey: 230 230 230 ;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 60 66 53;
+  --color-green: 233 233 233;
   --color-grid: var(--color-orange);
 }
 *,
@@ -2136,6 +2138,18 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(var(--color-dark-grey) / var(--tw-bg-opacity));
 }
+
+.bg-light_grey {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--color-light-grey) / var(--tw-bg-opacity));
+} 
+
+.bg-vlight_grey {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--color-vlight-grey) / var(--tw-bg-opacity));
+}
+
+
 .bg-dark_grey\/10 {
   background-color: rgb(var(--color-dark-grey) / 0.1);
 }
