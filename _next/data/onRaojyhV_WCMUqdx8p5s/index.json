@@ -21,12 +21,12 @@
                     "primary": {
                         "title": [{
                             "type": "paragraph",
-                            "text": "welcom3",
+                            "text": "BUILDING TOMORROW.",
                             "spans": [],
                             "direction": "ltr"
                         }, {
                             "type": "paragraph",
-                            "text": "home.",
+                            "text": "TODAY.",
                             "spans": [],
                             "direction": "ltr"
                         }],
@@ -182,7 +182,7 @@
                             "copyright": null,
                             "url": "https://images.prismic.io/pebble-website/652e9bccfbd9a45bcec817d1_ongridvertical.jpg?auto=format,compress"
                         },
-                        "title_left": "On-grid",
+                        "title_left": "From concept...",
                         "content_left": [{
                             "type": "paragraph",
                             "text": "At home, the Apt 24® Flow is never idle. Use it as a bonus room, an office or a rental space. It can even be used as a back-up battery.",
@@ -207,7 +207,7 @@
                             "copyright": null,
                             "url": "https://images.prismic.io/pebble-website/652e9bcafbd9a45bcec817d0_offgridvertical.jpg?auto=format,compress"
                         },
-                        "title_right": "Off-grid",
+                        "title_right": "To sales & rentals.",
                         "content_right": [{
                             "type": "paragraph",
                             "text": "Escape to the great outdoors for up to 7 days completely off-grid. Say goodbye to generators and propane tanks. The Apt 24® Flow’s massive EV battery and integrated solar panels adapt to your needs, promising true freedom.",
@@ -230,7 +230,7 @@
                             "url": "https://pebble-website.cdn.prismic.io/pebble-website/4cd9f8b2-fd54-41f2-a0f0-f413c8fc596f_230821BRAN_DroneForOW_08B.mp4",
                             "size": "1877818"
                         },
-                        "title_center": "And on the road",
+                        "title_center": "And every step in between.",
                         "content_center": [{
                             "type": "paragraph",
                             "text": "Aerodynamic design and a dual-motor Active Propulsion Assist System will have you wondering if you are towing anything at all. Range anxiety is a thing of the past when towing with an EV.",
@@ -308,7 +308,7 @@
                             "link_type": "Document",
                             "isBroken": false
                         },
-                        "button_text": "Explore the pebble flow"
+                        "button_text": "Contact Us for More..."
                     }, {
                         "image": {
                             "dimensions": {
@@ -339,7 +339,7 @@
                             "url": "https://pebblelife.com/pebble-flow",
                             "target": ""
                         },
-                        "button_text": "Explore the pebble flow"
+                        "button_text": "Contact Us for More..."
                     }, {
                         "image": {
                             "dimensions": {
@@ -374,7 +374,7 @@
                             "link_type": "Document",
                             "isBroken": false
                         },
-                        "button_text": "Explore the pebble flow"
+                        "button_text": "Contact Us for More..."
                     }, {
                         "image": {
                             "dimensions": {
@@ -413,7 +413,7 @@
                             "link_type": "Document",
                             "isBroken": false
                         },
-                        "button_text": "Explore the pebble flow"
+                        "button_text": "Contact Us for More..."
                     }, {
                         "image": {
                             "dimensions": {
@@ -452,7 +452,7 @@
                             "link_type": "Document",
                             "isBroken": false
                         },
-                        "button_text": "Explore the pebble flow"
+                        "button_text": "Contact Us for More..."
                     }, {
                         "image": {
                             "dimensions": {
@@ -491,7 +491,7 @@
                             "link_type": "Document",
                             "isBroken": false
                         },
-                        "button_text": "Explore Apt 24® Flow"
+                        "button_text": "Contact Us for More..."
                     }],
                     "primary": {
                         "last_anchor_text": "And so much more",
