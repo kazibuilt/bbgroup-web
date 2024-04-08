@@ -1773,7 +1773,8 @@
     left: 6.4vw;
     z-index: 2;
     display: flex;
-    align-items: center
+    align-items: center;
+    display: none;
 }
 
 @media(min-width:800px) {
@@ -2033,4 +2034,8 @@ html.dev .loader_loader__JGzFU {
     flex-grow: 1;
     position: relative;
     z-index: 1
+}
+
+.header_search__hhx4j {
+    display: none !important;
 }
