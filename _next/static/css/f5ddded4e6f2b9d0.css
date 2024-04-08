@@ -399,7 +399,8 @@
     grid-column: 18/-1;
     align-self: flex-end;
     justify-self: flex-end;
-    padding: .5555555556vw .8333333333vw
+    padding: .5555555556vw .8333333333vw;
+    display: none;
 }
 
 @media(min-width:800px) {
