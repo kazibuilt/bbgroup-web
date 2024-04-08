@@ -143,6 +143,9 @@ background-position: bottom;
 @media(min-width:800px) {
     .home_page___kTjr .home_hero__TJz4n {
         background: url(/assets/imgs/home_hero-desktop.png);
+        background-size: 100% auto;
+background-repeat: no-repeat;
+background-position: bottom;
     }
 }
 
