@@ -121,11 +121,11 @@
     overflow: hidden
 }
 
-@media(max-width:799px) {
+/* @media(max-width:799px) { */
     .home_page___kTjr footer {
         display: none
     }
-}
+/* } */
 
 .home_page___kTjr .home_hero__TJz4n {
     display: flex;
