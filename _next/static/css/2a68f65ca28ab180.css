@@ -133,7 +133,17 @@
     align-items: center;
     justify-content: center;
     height: calc(100*var(--svh, 1vh));
-    position: relative
+    position: relative;
+    background: url(/assets/imgs/home_hero-mobile.png);
+background-size: 100% auto;
+background-repeat: no-repeat;
+background-position: bottom;
+}
+
+@media(min-width:800px) {
+    .home_page___kTjr .home_hero__TJz4n {
+        background: url(/assets/imgs/home_hero-desktop.png);
+    }
 }
 
 .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x {
