@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.prnewswire.com/pl/sitemap-komunikat-prasowy.xml</loc>
+    <lastmod>2024-04-06T08:04:34.940+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/pl/sitemap-kontakt.xml</loc>
+    <lastmod>2024-04-06T08:04:34.940+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/pl/sitemap-produkty.xml</loc>
+    <lastmod>2024-04-06T08:04:34.940+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/pl/sitemap-gz.xml</loc>
+    <lastmod>2024-04-06T08:04:34.940+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /wp-admin/admin-ajax.php
+
+# Parameters
+Disallow: /*?_escaped_fragment
+Disallow: /*?no-header-footer
+Disallow: /*?s=
+Disallow: /purchase/
+Disallow: /survey/
+Disallow: /contact-support-coach
+Disallow: /wp-admin/
+Disallow: /honey
+
+# Sitemap
+Sitemap: https://www.noom.com/sitemaps.xml
+
+# International Sitemaps
+Sitemap: https://web.noom.com/de/sitemaps.xml
+Sitemap: https://web.noom.com/es/sitemaps.xml

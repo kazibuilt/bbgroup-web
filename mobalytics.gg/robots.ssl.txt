@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /api
+Disallow: /api-lor
+Disallow: /api-highlights
+Disallow: /api-la
+Disallow: /api-dst
+Disallow: /api-diablo4
+Disallow: /api-lol
+Disallow: /api-tft
+Sitemap: https://mobalytics.gg/sitemap.xml

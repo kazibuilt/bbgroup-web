@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /exchange/api
+Disallow: /exchange/ws
+Disallow: /exchange/sandbox/ws
+Disallow: /exchange/customer
+Disallow: /exchange/user
+Disallow: /auth
+Disallow: /registration
+Disallow: /clearing/api

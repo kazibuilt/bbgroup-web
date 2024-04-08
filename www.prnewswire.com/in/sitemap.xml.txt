@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.prnewswire.com/in/sitemap-news-releases.xml</loc>
+    <lastmod>2024-04-06T08:03:10.259+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/in/sitemap-gz.xml</loc>
+    <lastmod>2024-04-06T08:03:10.259+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

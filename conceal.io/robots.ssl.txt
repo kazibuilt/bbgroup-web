@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://conceal.io/news-sitemap.xml
+Sitemap: https://conceal.io/video-sitemap.xml
+Sitemap: https://conceal.io/sitemap.xml
+Sitemap: https://conceal.io/sitemap.rss

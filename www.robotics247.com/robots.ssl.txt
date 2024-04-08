@@ -1,0 +1,57 @@
+User-agent: bingbot
+Crawl-delay: 30
+Disallow: /cp/
+Disallow: /admin.php/
+Disallow: /cgi-bin/
+Disallow: /poll/
+Disallow: /scripts/
+Disallow: /member/
+Disallow: /forums/member/
+Disallow: /site/register/
+Disallow: /member/register/
+Disallow: /forums/member/register/
+Disallow: /site/login/
+
+User-agent: AhrefsBot
+Crawl-delay: 30
+disallow: /
+Disallow: /admin.php/
+
+User-agent: WordPress/6.0.5
+Crawl-delay: 30
+disallow: /
+Disallow: /admin.php/
+
+User-agent: SeekportBot
+Crawl-delay: 30
+Disallow: /
+Disallow: /admin.php/
+
+User-agent: MeltwaterNews
+Crawl-delay: 30
+Disallow: /cp/
+Disallow: /admin.php/
+
+User-agent: GPTBot
+Crawl-delay: 30
+Disallow: /
+Disallow: /admin.php/
+
+User-agent: BLEXBot
+Crawl-delay: 30
+Disallow: /cp/
+Disallow: /admin.php/
+
+User-agent: *
+Crawl-delay: 20
+Disallow: /cp/
+Disallow: /admin.php/
+Disallow: /cgi-bin/
+Disallow: /poll/
+Disallow: /scripts/
+Disallow: /member/
+Disallow: /forums/member/
+Disallow: /site/register/
+Disallow: /member/register/
+Disallow: /forums/member/register/
+Disallow: /site/login/

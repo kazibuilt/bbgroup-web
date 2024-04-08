@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: Googlebot-News
+Disallow: /search
+
+User-agent: Googlebot
+Disallow: /search/*.json$
+
+User-agent: Googlebot
+Disallow: /nocrawl/
+
+User-agent: barkrowler
+Disallow: /search/*
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /search/*
+
+User-agent: BLEXBot
+Disallow: /search/*
+
+User-agent: Googlebot
+Disallow: /austin
+Disallow: /denver
+Disallow: /houston
+Disallow: /los-angeles
+Disallow: /philadelphia
+
+User-agent: *
+Disallow: /search/user/benefits
+
+Sitemap: https://mybrightwheel.com/sitemap.xml

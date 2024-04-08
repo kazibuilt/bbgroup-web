@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /WebObjects/*
+Allow: /WebObjects/MZStore.woa/wa/viewMultiRoom?*
+
+Sitemap: https://podcasts.apple.com/sitemaps_podcasts_index_1.xml

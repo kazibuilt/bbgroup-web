@@ -1,0 +1,38 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+User-agent: AhrefsBot
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: Unknown robot identified by bot\*
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: scrapy
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: SemrushBot
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: BLEXBot
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: DotBot
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: MJ12bot
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml
+
+User-agent: GrapeshotCrawler
+Disallow: /
+Sitemap: https://www.finsmes.com/wp-sitemap.xml

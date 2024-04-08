@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /referral 
+Disallow: /institution_logos
+Disallow: /expert_profiles
+Disallow: /vendor
+Disallow: /blobs
+Disallow: /verify_email
+Disallow: /unregistered_employee
+Disallow: /1GB3xLvLiZ
+Sitemap: https://www.northstarmoney.com/sitemap.xml.gz

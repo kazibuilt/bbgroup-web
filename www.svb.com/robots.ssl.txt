@@ -1,0 +1,32 @@
+Sitemap: https://www.svb.com/Sitemap.xml
+
+User-agent: *
+
+Disallow: /brand-portal/
+Disallow: /episerver/
+Disallow: /feedburnerrss.aspx
+Disallow: /globalassets/online-banking/svbeconnect/
+Disallow: /globalassets/video-playlists/
+Disallow: /globalassets/trendsandinsights/reports/
+Disallow: /globalassets/library/managedassets/
+Disallow: /handlers/
+Disallow: /learning-central/
+Disallow: /globalassets/learning-central/
+Disallow: /tours/
+Disallow: /link/
+Disallow: /module-guide/
+Disallow: /search-results/
+Disallow: /services/
+Disallow: /stripe-faqs/
+Disallow: /svbeconnect/
+Disallow: /workarea/
+Disallow: /page-templates/
+Disallow: /services/
+Disallow: /private-bank-redesign/
+Disallow: /MediaFeed/
+Disallow: /ArticleListBlock/
+Disallow: /private-bank/insights/search/
+
+User-agent: dotbot
+
+Disallow: /

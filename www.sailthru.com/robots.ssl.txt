@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /archive/
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /cms/wp-
+Disallow: /*/wp/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: */wlwmanifest.xml
+Disallow: /xmlrpc.php
+Disallow: *utm*=
+Disallow: *openstat=
+Disallow: /static
+Allow: /content/uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /*/wp-*.png
+Allow: /*/wp-*.svg
+Allow: /*/wp-*.jpg
+Allow: /*/wp-*.jpeg
+Allow: /*/wp-*.gif
+Allow: /cms/wp-admin/admin-ajax.php
+Allow: /wp/wp-admin/admin-ajax.php
+Allow: /*/admin-ajax.php
+
+
+Sitemap: https://www.sailthru.com/sitemap_index.xml
+Sitemap: https://www.sailthru.com/personalization-index/sitemap_index.xml

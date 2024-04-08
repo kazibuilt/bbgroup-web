@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.prnewswire.com/nl/sitemap-producten.xml</loc>
+    <lastmod>2024-04-06T08:04:55.533+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/nl/sitemap-persberichten.xml</loc>
+    <lastmod>2024-04-06T08:04:55.533+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/nl/sitemap-neem-contact-met-ons-op.xml</loc>
+    <lastmod>2024-04-06T08:04:55.533+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/nl/sitemap-gz.xml</loc>
+    <lastmod>2024-04-06T08:04:55.533+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

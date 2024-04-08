@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /wp-content/uploads/2019/08/Case-Study-_-PDF-_-Regency-Properties.pdf
+# FOR INDIVIDUAL PAGES USE YOAST SEO per page meta robots!
+
+Sitemap: https://www.vts.com/sitemap_index.xml

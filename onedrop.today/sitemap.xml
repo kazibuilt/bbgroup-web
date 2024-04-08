@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://onedrop.today/sitemap_products_1.xml?from=1511972995168&amp;to=4695335731296</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/sitemap_pages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/sitemap_collections_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/sitemap_blogs_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/en-ca/sitemap_products_1.xml?from=1511972995168&amp;to=4695335731296</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/en-ca/sitemap_pages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/en-ca/sitemap_collections_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://onedrop.today/en-ca/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>

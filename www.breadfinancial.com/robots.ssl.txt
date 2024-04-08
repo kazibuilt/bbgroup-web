@@ -1,0 +1,5 @@
+# robots.txt for http://www.breadfinancial.com/
+User-agent: *
+Allow: /
+Disallow: /credit-cards/
+Sitemap: http://www.breadfinancial.com/us.sitemap.xml

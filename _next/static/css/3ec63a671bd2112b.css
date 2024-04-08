@@ -1,0 +1,10 @@
+.webgl_webgl__N9Zzf {
+    position: fixed;
+    inset: 0;
+    max-height: 100vh
+}
+
+.webgl_webgl__N9Zzf canvas {
+    width: 100% !important;
+    height: 100% !important
+}

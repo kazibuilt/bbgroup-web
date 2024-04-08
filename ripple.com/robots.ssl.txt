@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /lp/
+Disallow: /offline-plugin-app-shell-fallback/
+Disallow: /files/
+Disallow: /reports/
+Sitemap: https://ripple.com/sitemap.xml
+Host: https://ripple.com

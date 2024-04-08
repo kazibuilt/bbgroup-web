@@ -1,0 +1,14 @@
+# Block GPT crawler
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /search
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /logout
+Disallow: /favorites
+Disallow: /*/looks/*
+Disallow: /trunkshow-refer-a-friend-terms
+
+Sitemap: https://www.modaoperandi.com/sitemap.xml

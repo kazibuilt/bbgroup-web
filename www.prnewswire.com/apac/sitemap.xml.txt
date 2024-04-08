@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.prnewswire.com/apac/sitemap-news-releases.xml</loc>
+    <lastmod>2024-04-06T08:01:26.181+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/apac/sitemap-contact-us.xml</loc>
+    <lastmod>2024-04-06T08:01:26.181+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/apac/sitemap-products.xml</loc>
+    <lastmod>2024-04-06T08:01:26.181+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prnewswire.com/apac/sitemap-gz.xml</loc>
+    <lastmod>2024-04-06T08:01:26.181+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,296 @@
+.curtain_curtain__zvWQR {
+    position: fixed;
+    z-index: 9;
+    inset: 0;
+    pointer-events: none
+}
+
+.curtain_curtain__zvWQR .curtain_overlay__5cr7G {
+    position: absolute;
+    inset: 0;
+    background-color: var(--white);
+    opacity: 0;
+    visibility: hidden
+}
+
+.curtain_curtain__zvWQR .curtain_inner__eyyXU {
+    position: absolute;
+    inset: var(--layout-margin);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    color: var(--white);
+    align-items: center;
+    background-color: var(--black);
+    pointer-events: all
+}
+
+@media(max-width:799px) {
+    .curtain_curtain__zvWQR .curtain_inner__eyyXU {
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        padding: 0 var(--layout-margin)
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg,
+.curtain_curtain__zvWQR .curtain_cross2__6m1Hg svg,
+.curtain_curtain__zvWQR .curtain_cross3__lDPyC svg,
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg {
+    aspect-ratio: 1;
+    width: 6.4vw
+}
+
+@media(min-width:800px) {
+
+    .curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg,
+    .curtain_curtain__zvWQR .curtain_cross2__6m1Hg svg,
+    .curtain_curtain__zvWQR .curtain_cross3__lDPyC svg,
+    .curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg {
+        width: 1.6666666667vw
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg path,
+.curtain_curtain__zvWQR .curtain_cross2__6m1Hg svg path,
+.curtain_curtain__zvWQR .curtain_cross3__lDPyC svg path,
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg path {
+    fill: currentColor
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 {
+    grid-column: span 2;
+    display: flex;
+    padding-left: 1.6666666667vw
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg:not(:last-child) {
+    margin-right: -1.6vw
+}
+
+@media(min-width:800px) {
+    .curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg:not(:last-child) {
+        margin-right: -.4166666667vw
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_cross2__6m1Hg {
+    grid-column: 5/span 1;
+    justify-self: flex-end
+}
+
+@media(max-width:799px) {
+    .curtain_curtain__zvWQR .curtain_cross2__6m1Hg {
+        display: none
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_title__Nxqe4 {
+    overflow: hidden;
+    grid-column: 7/-7;
+    text-align: center
+}
+
+.curtain_curtain__zvWQR .curtain_title__Nxqe4 span {
+    display: inline-block
+}
+
+.curtain_curtain__zvWQR .curtain_cross3__lDPyC {
+    grid-column: -7;
+    justify-self: flex-end
+}
+
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ {
+    grid-column: span 2/-1;
+    display: flex;
+    padding-right: 1.6666666667vw;
+    margin-left: auto
+}
+
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg:not(:last-child) {
+    margin-right: -.4166666667vw
+}
+
+@media(max-width:799px) {
+    .curtain_curtain__zvWQR .curtain_cross4__QdHv_ {
+        display: none
+    }
+}
+
+.focus_page__FAy8V {
+    padding-top: var(--header-height)
+}
+
+@media(max-width:799px) {
+    .focus_page__FAy8V {
+        row-gap: 10.6666666667vw
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 {
+    position: relative
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_arrow__Q2RaN {
+    position: fixed;
+    width: .9722222222vw;
+    height: 1.8055555556vw;
+    bottom: 2.2222222222vw;
+    left: 3.125vw;
+    z-index: 1;
+    transform: rotate(180deg);
+    transition: opacity .4s var(--ease-rre)
+}
+
+@media(max-width:799px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_arrow__Q2RaN {
+        display: none
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_arrow__Q2RaN.focus_hide__H6y2a {
+    opacity: 0
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP {
+    grid-column: 1/-1
+}
+
+@media(min-width:800px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP {
+        grid-column: span 10/-1
+    }
+}
+
+@media(max-width:799px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP {
+        margin-bottom: 3.2vw
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_current-image__SiJ1l,
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_image__1cK6O {
+    position: relative;
+    aspect-ratio: 1
+}
+
+@media(min-width:800px) {
+
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_current-image__SiJ1l,
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_image__1cK6O {
+        width: 100%;
+        max-height: calc(100vh - var(--header-height) - 2.2222222222vw)
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_current-image__SiJ1l>*,
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_image__1cK6O>* {
+    position: absolute;
+    inset: 0
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_current-image__SiJ1l {
+    opacity: 0
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_aside__ULAbP .focus_current-image__SiJ1l.focus_show__mt1r5 {
+    opacity: 1
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA {
+    grid-column: 1/-1
+}
+
+@media(min-width:800px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA {
+        grid-column: 1/span 10;
+        grid-row: 1
+    }
+
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        max-height: calc(100vh - var(--header-height) - 2.2222222222vw);
+        height: 100%;
+        margin-bottom: 14.8611111111vw
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_title__INpAT {
+    position: relative;
+    margin-bottom: 12.8vw
+}
+
+@media(min-width:800px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_title__INpAT {
+        margin-top: 11.6666666667vw;
+        margin-bottom: auto;
+        display: inline-block;
+        line-height: 80%
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_title__INpAT .focus_icon__eoue5 {
+    width: 12.8vw;
+    aspect-ratio: 1;
+    position: absolute
+}
+
+@media(max-width:799px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_title__INpAT .focus_icon__eoue5 {
+        top: 0;
+        right: 0
+    }
+}
+
+@media(min-width:800px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_title__INpAT .focus_icon__eoue5 {
+        top: 0;
+        left: calc(100% + .9722222222vw);
+        width: 3.1944444444vw
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_title__INpAT .focus_icon__eoue5 svg {
+    height: auto;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_description__2Tp1T {
+    margin-top: auto;
+    margin-left: auto
+}
+
+@media(min-width:800px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_description__2Tp1T {
+        width: 37.5694444444vw
+    }
+}
+
+@media(max-width:799px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_hero__YNv_D .focus_description__2Tp1T {
+        margin-bottom: 21.3333333333vw
+    }
+}
+
+@media(min-width:800px) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_index-list__9GOoW {
+        margin-left: calc(2*var(--layout-column-width) + (2 - 1)*var(--layout-columns-gap) + var(--layout-columns-gap))
+    }
+}
+
+.focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_index-list__9GOoW .focus_item__W4knl {
+    transition: opacity .3s var(--ease-rre)
+}
+
+@media(hover:hover) {
+    .focus_page__FAy8V .focus_wrapper__Oisw2 .focus_content__CgnuA .focus_index-list__9GOoW .focus_item__W4knl:hover {
+        opacity: .5
+    }
+}

@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+
+Sitemap: https://bitpay.com/sitemap.xml
+
+# Allow crawling of all content
+User-agent: *
+
+
+Disallow: */verify?*
+Disallow: *?code*
+Disallow: *?ref=*
+Disallow: */buy/buy-*

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://joinclyde.com
+
+# Sitemaps
+Sitemap: https://joinclyde.com/sitemap.xml

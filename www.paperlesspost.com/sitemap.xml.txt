@@ -1,0 +1,20 @@
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.paperlesspost.com/plp-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.paperlesspost.com/card-pdp-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.paperlesspost.com/flyer-pdp-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.paperlesspost.com/landing-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.paperlesspost.com/theme-plp-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.paperlesspost.com/blog/sitemap_index.xml</loc>
+  </sitemap>
+</sitemapindex>

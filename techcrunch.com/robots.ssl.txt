@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /search/
+Disallow: /*?customize_changeset_uuid=*
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://techcrunch.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

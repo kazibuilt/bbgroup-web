@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /unsupported
+Disallow: /_nextpublic/*.js
+Disallow: /_nextpublic/*.css
+Disallow: /_next/*.js
+Disallow: /_next/*.css
+Disallow: /static/*.js
+Disallow: /static/*.css
+Disallow: /scripts/*.js
+Disallow: /scripts/*.css
+Sitemap: https://nomadhealth.com/sitemap.xml

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<sitemap>
+<loc>https://breather.com/sitemaps/statics.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/new-york.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/toronto.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/london.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/washington-dc.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/los-angeles.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/chicago.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/san-francisco.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/montreal.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/boston.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://breather.com/sitemaps/ottawa.xml</loc>
+</sitemap>
+</sitemapindex>

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /users
+Allow: /users/sign_up
+
+# Sitemap.xml files
+Sitemap: https://culinaryagents.com/sitemap_website.xml
+Sitemap: https://culinaryagents.com/sitemap_dynamic.xml.gz
+Disallow: /marketplace/listings/ad
+Disallow: /marketplace/search/sponsor_ad

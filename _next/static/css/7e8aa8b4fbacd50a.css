@@ -1,0 +1,317 @@
+.slider_navigation__xvO2g {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.slider_navigation__xvO2g.slider_hide___5Xsr,
+.slider_navigation__xvO2g>:first-child:not(.slider_show__TV794) {
+    display: none
+}
+
+.slider_wrapper__ibei4 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%
+}
+
+.slider_wrapper__ibei4 .slider_slider__uOIBl {
+    transition: .5s opacity var(--ease-rre)
+}
+
+.slider_arrow-buttons__icCYt {
+    display: flex
+}
+
+@media(min-width:800px) {
+    .slider_arrow-buttons__icCYt {
+        position: absolute;
+        bottom: 0;
+        right: 0
+    }
+}
+
+.slider_arrow-buttons__icCYt .slider_buttons__3uuUN {
+    width: 12.8vw;
+    height: 10.6666666667vw;
+    border-radius: .5333333333vw;
+    background-color: var(--light-gray);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+@media(min-width:800px) {
+    .slider_arrow-buttons__icCYt .slider_buttons__3uuUN {
+        width: 3.3333333333vw;
+        height: 2.7777777778vw;
+        border-radius: .1388888889vw
+    }
+}
+
+.slider_arrow-buttons__icCYt .slider_buttons__3uuUN svg {
+    width: 6.4vw;
+    height: 6.4vw
+}
+
+@media(min-width:800px) {
+    .slider_arrow-buttons__icCYt .slider_buttons__3uuUN svg {
+        width: 1.6666666667vw;
+        height: 1.6666666667vw
+    }
+}
+
+.slider_arrow-buttons__icCYt .slider_buttons__3uuUN:first-of-type {
+    margin-right: 3.2vw
+}
+
+@media(min-width:800px) {
+    .slider_arrow-buttons__icCYt .slider_buttons__3uuUN:first-of-type {
+        margin-right: .5555555556vw
+    }
+}
+
+.slider_arrow-buttons__icCYt .slider_buttons__3uuUN:first-of-type svg {
+    transform: rotate(-180deg)
+}
+
+.richtext_image__RBR7X {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+@media(min-width:800px) {
+    .richtext_image__RBR7X {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 1/1
+    }
+}
+
+.memorial_page__9ps71 {
+    background-color: var(--blue);
+    color: var(--white)
+}
+
+.memorial_page__9ps71>* {
+    margin: 0 auto
+}
+
+.memorial_header__VErOA {
+    grid-column: 1/-1;
+    padding-top: 8.5333333333vw;
+    margin-bottom: 25.6vw
+}
+
+@media(min-width:800px) {
+    .memorial_header__VErOA {
+        padding-top: 2.2222222222vw;
+        margin-bottom: 12.7777777778vw
+    }
+}
+
+.memorial_header__VErOA .memorial_logo__e6bfQ {
+    margin: auto;
+    width: 25.6vw;
+    height: 10.6666666667vw
+}
+
+@media(min-width:800px) {
+    .memorial_header__VErOA .memorial_logo__e6bfQ {
+        width: 6.6666666667vw;
+        height: 2.7777777778vw
+    }
+}
+
+.memorial_hero__C4ZMF {
+    grid-column: 1/-1;
+    margin-bottom: 32vw
+}
+
+@media(min-width:800px) {
+    .memorial_hero__C4ZMF {
+        grid-column: 2/-2;
+        margin-bottom: 16.6666666667vw
+    }
+}
+
+.memorial_hero__C4ZMF .memorial_title__hJjm4 {
+    text-align: center;
+    margin-bottom: 21.3333333333vw
+}
+
+@media(min-width:800px) {
+    .memorial_hero__C4ZMF .memorial_title__hJjm4 {
+        margin-bottom: 4.6527777778vw
+    }
+}
+
+@media(max-width:799px) {
+    .memorial_hero__C4ZMF .memorial_title__hJjm4 h1 {
+        margin: 10.6666666667vw 0 12.8vw
+    }
+}
+
+.memorial_hero__C4ZMF .memorial_date__ufgjE {
+    text-align: center
+}
+
+@media(min-width:800px) {
+    .memorial_hero__C4ZMF .memorial_date__ufgjE {
+        width: 23.0555555556vw
+    }
+}
+
+.memorial_hero__C4ZMF .memorial_media__MZJ4U {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.memorial_hero__C4ZMF .memorial_media__MZJ4U .memorial_image__vUeMC {
+    position: relative;
+    width: 87.2vw;
+    aspect-ratio: 327/462
+}
+
+@media(min-width:800px) {
+    .memorial_hero__C4ZMF .memorial_media__MZJ4U .memorial_image__vUeMC {
+        width: 27.9166666667vw;
+        aspect-ratio: 402/568;
+        margin: 0 5.5555555556vw
+    }
+}
+
+.memorial_long-text__1ZnxJ {
+    grid-column: 1/-1;
+    margin-bottom: 8.5333333333vw
+}
+
+@media(min-width:800px) {
+    .memorial_long-text__1ZnxJ {
+        grid-column: 6/-6;
+        width: 47.2222222222vw;
+        margin-bottom: 2.2222222222vw
+    }
+}
+
+.memorial_thanks__g4TGc {
+    grid-column: 1/-1;
+    text-align: center;
+    margin-bottom: 42.6666666667vw
+}
+
+@media(min-width:800px) {
+    .memorial_thanks__g4TGc {
+        grid-column: 6/-6;
+        width: 40.2777777778vw;
+        margin-bottom: 16.6666666667vw
+    }
+}
+
+.memorial_thanks__g4TGc p:first-child {
+    margin-bottom: 10.6666666667vw
+}
+
+@media(min-width:800px) {
+    .memorial_thanks__g4TGc p:first-child {
+        margin-bottom: 5.5555555556vw
+    }
+}
+
+@media(max-width:799px) {
+    .memorial_thanks__g4TGc p:last-child {
+        font-size: 8.5333333333vw
+    }
+}
+
+.memorial_testimonials__iSmRN {
+    grid-column: 1/-1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid var(--white-transparent);
+    padding: 42.6666666667vw 0 57.0666666667vw
+}
+
+@media(min-width:800px) {
+    .memorial_testimonials__iSmRN {
+        grid-column: 6/-6;
+        padding: 16.6666666667vw 0
+    }
+}
+
+.memorial_testimonials__iSmRN .memorial_title__hJjm4 {
+    margin-bottom: 8.5333333333vw
+}
+
+@media(min-width:800px) {
+    .memorial_testimonials__iSmRN .memorial_title__hJjm4 {
+        margin-bottom: 2.2222222222vw
+    }
+}
+
+.memorial_testimonials__iSmRN>div {
+    overflow: hidden
+}
+
+.memorial_testimonials__iSmRN>div>div:last-child {
+    margin-top: 2.2222222222vw;
+    display: flex;
+    justify-content: center
+}
+
+.memorial_testimonials__iSmRN>div>div:last-child>div>div {
+    position: relative
+}
+
+.memorial_testimonials__iSmRN>div>div:last-child>div>div path {
+    fill: var(--black)
+}
+
+.memorial_testimonials__iSmRN .memorial_slide__QMNs8 {
+    flex-shrink: 0;
+    width: 100%;
+    margin-right: var(--layout-columns-gap)
+}
+
+.memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_quote__0lmmz {
+    text-align: center;
+    margin-bottom: 12.8vw;
+    width: 87.2vw
+}
+
+@media(min-width:800px) {
+    .memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_quote__0lmmz {
+        width: 100%;
+        margin-bottom: 3.3333333333vw
+    }
+}
+
+.memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_bottom__7CXI_ {
+    margin-bottom: 10.6666666667vw
+}
+
+@media(min-width:800px) {
+    .memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_bottom__7CXI_ {
+        margin-bottom: .5555555556vw
+    }
+}
+
+.memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_bottom__7CXI_ .memorial_author__7mhAh {
+    text-align: center
+}
+
+.memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_bottom__7CXI_ .memorial_author__7mhAh :first-child {
+    margin-bottom: 2.1333333333vw
+}
+
+@media(min-width:800px) {
+    .memorial_testimonials__iSmRN .memorial_slide__QMNs8 .memorial_bottom__7CXI_ .memorial_author__7mhAh :first-child {
+        margin-bottom: .5555555556vw
+    }
+}

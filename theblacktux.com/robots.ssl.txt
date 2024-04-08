@@ -1,0 +1,24 @@
+User-agent: *
+
+Disallow: /account/
+Disallow: /ajax/
+Disallow: /api/
+Disallow: /fit/
+Disallow: /veil/
+Disallow: /blog/blog/
+Disallow: /start/
+Disallow: /partners/crate-and-barrel
+Disallow: /collection/accessory/grooms-guide
+
+# begin marketing stuff
+Disallow: /refer_prom
+Disallow: /TW_winter3571
+Disallow: /soup./
+
+# begin dead links
+Disallow: /collection/pants/
+Disallow: /collection/jackets/
+Disallow: /collection/misc/
+Disallow: /collection/hometryon-garments/
+
+Sitemap: https://theblacktux.com/sitemap.xml

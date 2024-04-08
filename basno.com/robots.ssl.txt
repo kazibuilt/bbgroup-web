@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /services/
+Disallow: /trackoutbound
+Disallow: /trackoutbound/
+Disallow: /users/*/instances
+Disallow: /users/*/prototypes
+Disallow: /partners
+Disallow: /partners/
+Disallow: /s
+Disallow: /s/
+Disallow: /c
+Disallow: /c/
+Disallow: /reactions
+Disallow: /reactions/
+Disallow: /accounts
+Disallow: /accounts/
+Disallow: /bypass_mobile
+Disallow: /dialogs
+Disallow: /dialogs/
+Disallow: /assets
+Disallow: /assets/
+Disallow: /go
+Disallow: /go/
+

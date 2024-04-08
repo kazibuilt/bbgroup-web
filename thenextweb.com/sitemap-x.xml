@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://thenextweb.com/x</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/case-studies</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/opportunities</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/clients</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/about-us</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/case-studies/adyen</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/case-studies/vodafone</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/case-studies/iss</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/tech-cities</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/unleashed</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/dealsoverdinner-randstad</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thenextweb.com/x/heinekenhrbrewhouse</loc>
+  <lastmod>2020-03-23T14:08:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>

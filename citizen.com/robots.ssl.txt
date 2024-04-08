@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /shield-1klg
+Disallow: /shield-mpkl
+Disallow: /shield-ncy7
+Disallow: /shield-ypbo
+Disallow: /shield-i9lzf
+Disallow: /shield-bmenc

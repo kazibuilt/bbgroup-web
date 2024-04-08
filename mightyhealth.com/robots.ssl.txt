@@ -1,0 +1,14 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+
+Disallow: https://mightyhealth.com/blog/memberships-amp-billing
+Disallow: https://gift.mightyhealth.com/*
+Disallow: https://mightyhealth.com/gift.html
+Disallow: https://mightyhealth.com/blog/mighty-health-faq
+Disallow: https://demo.mightyhealth.com/
+Disallow: /chapter
+
+Sitemap: https://www.mightyhealth.com/sitemap.xml
+Sitemap: https://mightyhealth.squarespace.com/sitemap.xml

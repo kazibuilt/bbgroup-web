@@ -1,0 +1,27 @@
+Sitemap: https://www.mother.ly/sitemap_index.xml
+
+User-agent: ChatGPT-User
+Disallow: *
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 600
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /feed
+Disallow: /*?s=
+Disallow: /uncategorized
+
+user-agent: Pinterestbot
+disallow: /
+
+user-agent: Amazonbot
+Crawl-delay: 600
+
+user-agent: GeedoBot
+Crawl-delay: 600
+
+user-agent: Applebot
+Crawl-delay: 600

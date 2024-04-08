@@ -1,0 +1,259 @@
+.curtain_curtain__zvWQR {
+    position: fixed;
+    z-index: 9;
+    inset: 0;
+    pointer-events: none
+}
+
+.curtain_curtain__zvWQR .curtain_overlay__5cr7G {
+    position: absolute;
+    inset: 0;
+    background-color: var(--white);
+    opacity: 0;
+    visibility: hidden
+}
+
+.curtain_curtain__zvWQR .curtain_inner__eyyXU {
+    position: absolute;
+    inset: var(--layout-margin);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    color: var(--white);
+    align-items: center;
+    background-color: var(--black);
+    pointer-events: all
+}
+
+@media(max-width:799px) {
+    .curtain_curtain__zvWQR .curtain_inner__eyyXU {
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        padding: 0 var(--layout-margin)
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg,
+.curtain_curtain__zvWQR .curtain_cross2__6m1Hg svg,
+.curtain_curtain__zvWQR .curtain_cross3__lDPyC svg,
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg {
+    aspect-ratio: 1;
+    width: 6.4vw
+}
+
+@media(min-width:800px) {
+
+    .curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg,
+    .curtain_curtain__zvWQR .curtain_cross2__6m1Hg svg,
+    .curtain_curtain__zvWQR .curtain_cross3__lDPyC svg,
+    .curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg {
+        width: 1.6666666667vw
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg path,
+.curtain_curtain__zvWQR .curtain_cross2__6m1Hg svg path,
+.curtain_curtain__zvWQR .curtain_cross3__lDPyC svg path,
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg path {
+    fill: currentColor
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 {
+    grid-column: span 2;
+    display: flex;
+    padding-left: 1.6666666667vw
+}
+
+.curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg:not(:last-child) {
+    margin-right: -1.6vw
+}
+
+@media(min-width:800px) {
+    .curtain_curtain__zvWQR .curtain_cross1__R6wO6 svg:not(:last-child) {
+        margin-right: -.4166666667vw
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_cross2__6m1Hg {
+    grid-column: 5/span 1;
+    justify-self: flex-end
+}
+
+@media(max-width:799px) {
+    .curtain_curtain__zvWQR .curtain_cross2__6m1Hg {
+        display: none
+    }
+}
+
+.curtain_curtain__zvWQR .curtain_title__Nxqe4 {
+    overflow: hidden;
+    grid-column: 7/-7;
+    text-align: center
+}
+
+.curtain_curtain__zvWQR .curtain_title__Nxqe4 span {
+    display: inline-block
+}
+
+.curtain_curtain__zvWQR .curtain_cross3__lDPyC {
+    grid-column: -7;
+    justify-self: flex-end
+}
+
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ {
+    grid-column: span 2/-1;
+    display: flex;
+    padding-right: 1.6666666667vw;
+    margin-left: auto
+}
+
+.curtain_curtain__zvWQR .curtain_cross4__QdHv_ svg:not(:last-child) {
+    margin-right: -.4166666667vw
+}
+
+@media(max-width:799px) {
+    .curtain_curtain__zvWQR .curtain_cross4__QdHv_ {
+        display: none
+    }
+}
+
+.home_page___kTjr {
+    overflow: hidden
+}
+
+@media(max-width:799px) {
+    .home_page___kTjr footer {
+        display: none
+    }
+}
+
+.home_page___kTjr .home_hero__TJz4n {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100*var(--svh, 1vh));
+    position: relative
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x {
+    text-align: center
+}
+
+@media(max-width:799px) {
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x {
+        font-size: 14.9333333333vw;
+        letter-spacing: 0;
+        text-align: center
+    }
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_line__PgW7F {
+    display: inline-block
+}
+
+@media(min-width:800px) {
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_line__PgW7F {
+        overflow: hidden
+    }
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_word__rL8o2 {
+    transition: 1s opacity var(--ease-out-expo)
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_space__6WB_H {
+    margin-right: 2.6666666667vw
+}
+
+@media(min-width:800px) {
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_space__6WB_H {
+        margin-right: 1.0416666667vw
+    }
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x.home_hover__tof9S .home_word__rL8o2:not(.home_current__Hwl9W) {
+    opacity: .15
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd {
+    position: relative;
+    display: inline-block
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd span {
+    pointer-events: none
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:after,
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:before {
+    content: "";
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+    background-color: var(--red);
+    height: .5333333333vw
+}
+
+@media(min-width:800px) {
+
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:after,
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:before {
+        bottom: 0;
+        height: max(.2083333333vw, 3px)
+    }
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:before {
+    transform-origin: left;
+    transform: scaleX(var(--scale, 0));
+    transition: var(--transition, 1s transform var(--ease-out-expo))
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:after {
+    display: var(--display, "inline-block");
+    transform-origin: right;
+    transform: scaleX(1);
+    transition: 1s transform var(--ease-out-expo);
+    transition-delay: .1s
+}
+
+@media(hover:hover) {
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:hover:before {
+        transform: scaleX(1);
+        transition-delay: .1s
+    }
+
+    .home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd:hover:after {
+        transform: scaleX(0);
+        transition-delay: 0ms
+    }
+}
+
+.home_page___kTjr .home_hero__TJz4n .home_title__Ddv9x .home_link__g_vWd span:before {
+    content: unset !important
+}
+
+.home_page___kTjr .home_mosaic__w_18k {
+    position: absolute;
+    inset: 0
+}
+
+.home_title__Ddv9x {
+    line-height: 115% !important;
+}
+
+.noise_overlay {
+    z-index: 2147483647;
+    opacity: .04;
+    background-image: url(https://assets-global.website-files.com/651d15fb8f27f4a03c14ae88/651d15fb8f27f4a03c14afa4_5d8424ac4ffed73f4d72846e_5c06f51d6e75c933fe05c728_giphy.gif);
+    background-position: 0 0;
+    background-size: 480px;
+    background-attachment: fixed;
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    }

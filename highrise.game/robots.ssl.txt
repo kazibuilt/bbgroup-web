@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# Host
+Host: https://highrise.game
+
+# Sitemaps
+Sitemap: https://highrise.game/sitemap.xml
