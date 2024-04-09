@@ -1,8 +1,8 @@
 {
     "rewrites": [
       {
-        "source": "/_next/image?url=:path*",
-        "destination": ":path*"
+        "source": "_next/image?url=%2F_next%2F",
+        "destination": "/_next/"
       }
     ]
   }
