@@ -14,7 +14,7 @@
 .city_city__n3mZm .city_sticky__3rf5m .city_overlay__wNyQg {
     position: absolute;
     inset: 0;
-    background-color: rgba(176, 0, 0, 0.22);
+    background-color: rgba(176, 0, 0, 0.22) !important;
     z-index: -1
 }
 
