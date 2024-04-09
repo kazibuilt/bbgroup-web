@@ -224,7 +224,7 @@ meter {
     font-family: Family;
     src: url(../../../fonts/family/Family-Light.woff2) format("woff2");
     font-display: swap;
-    font-weight: 300
+    font-weight: 400
 }
 
 @font-face {
@@ -232,7 +232,7 @@ meter {
     src: url(../../../fonts/family/Family-LightItalic.woff2) format("woff2");
     font-display: swap;
     font-style: italic;
-    font-weight: 300
+    font-weight: 400
 }
 
 @font-face {
@@ -241,6 +241,7 @@ meter {
     font-display: swap;
     font-weight: 400
 }
+
 
 @font-face {
     font-family: Family;
@@ -279,6 +280,15 @@ meter {
     font-style: italic;
     font-weight: 700
 }
+
+@font-face {
+    font-family: NeueHass;
+    src: url(../../../fonts/neuehass/neuehass.woff2) format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400
+}
+
 
 @font-face { font-family:Inter; font-style:normal; font-weight:100; font-display:swap; src:url("https://rsms.me/inter/font-files/Inter-Thin.woff2?v=4.0") format("woff2"); }
 @font-face { font-family:Inter; font-style:italic; font-weight:100; font-display:swap; src:url("https://rsms.me/inter/font-files/Inter-ThinItalic.woff2?v=4.0") format("woff2"); }
@@ -320,20 +330,28 @@ meter {
 :root {
     --font-hauss-mono: "At Hauss Mono";
     --font-family: "Inter";
+    --font-neuehass: "NeueHass";
     --font-inter: "Inter"
 
 }
 
 .hauss-mono {
-    font-family: var(--font-hauss-mono)
+    /* font-family: var(--font-hauss-mono) */
+    font-family: var(--font-neuehass)
 }
 
 .family {
-    font-family: var(--font-inter)
+    /* font-family: var(--font-inter) */
+    font-family: var(--font-neuehass)
 }
 
 .inter {
-    font-family: var(--font-inter)
+    /* font-family: var(--font-inter) */
+    font-family: var(--font-neuehass)
+}
+
+.neuehass {
+    font-family: var(--font-neuehass)
 }
 
 
@@ -451,7 +469,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .jumbo-text {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 19.2vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -477,7 +495,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .h1 {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 14.9333333333vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -503,7 +521,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .h2 {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 12.8vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -528,7 +546,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .h3 {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 12.8vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -553,7 +571,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .p-xl {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 8.5333333333vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -589,7 +607,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .p-l {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 6.4vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -628,7 +646,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .small-title {
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 6.4vw;
     line-height: 110%;
     letter-spacing: -.02em
@@ -766,7 +784,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 }
 
 .text-light {
-    font-weight: 300
+    font-weight: 400
 }
 
 .text-regular {
@@ -774,11 +792,11 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 }
 
 .text-medium {
-    font-weight: 500
+    font-weight: 400
 }
 
 .text-bold {
-    font-weight: 700
+    font-weight: 400
 }
 
 .blue {
@@ -855,7 +873,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 }
 
 .theme-light {
-    --theme-primary: #fffdf9;
+    --theme-primary: #ecedf1;
     --theme-primary-transparent: rgba(255, 253, 249, 0);
     --theme-secondary: #000;
     --theme-secondary-transparent: transparent
@@ -864,7 +882,7 @@ html:not(.has-scroll-smooth) .hide-on-native-scroll {
 .theme-dark {
     --theme-primary: #000;
     --theme-primary-transparent: transparent;
-    --theme-secondary: #fffdf9;
+    --theme-secondary: #ecedf1;
     --theme-secondary-transparent: rgba(255, 253, 249, 0)
 }
 
@@ -989,6 +1007,6 @@ svg.icon rect[stroke] {
     left: 0%;
     right: 0%;
     height:100vh;
-    width: 100vh;
+    width: 100vw;
     pointer-events: none;
     }
