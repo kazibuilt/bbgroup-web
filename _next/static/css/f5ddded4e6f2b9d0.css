@@ -2039,3 +2039,16 @@ html.dev .loader_loader__JGzFU {
 .header_search__hhx4j {
     display: none !important;
 }
+
+div.navigation_content__04O4b.layout-grid-inner > div > ul > li:nth-child(2)  {
+    display: none !important;
+}
+
+div.navigation_content__04O4b.layout-grid-inner > div > ul > li:nth-child(3)  {
+    display: none !important;
+}
+
+
+.navigation_right__AvSVI {
+    display: none !important;
+}
