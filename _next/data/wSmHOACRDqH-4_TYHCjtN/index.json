@@ -2,527 +2,365 @@
     "pageProps": {
         "home": {
             "data": {
-                "home": {
-                    "_sys": {
-                        "filename": "home",
-                        "basename": "home.md",
-                        "breadcrumbs": [
-                            "home"
-                        ],
-                        "path": "tina/content/pages/home/home.md",
-                        "relativePath": "home.md",
-                        "extension": ".md"
+              "home": {
+                "_sys": {
+                  "filename": "home",
+                  "basename": "home.md",
+                  "breadcrumbs": ["home"],
+                  "path": "tina/content/pages/home/home.md",
+                  "relativePath": "home.md",
+                  "extension": ".md"
+                },
+                "id": "tina/content/pages/home/home.md",
+                "__typename": "Home",
+                "title": "Home",
+                "global": [{
+                  "__typename": "HomeGlobalNavigation",
+                  "navigation": {
+                    "__typename": "Navigation",
+                    "title": "navigation",
+                    "headerMarquee": {
+                      "__typename": "NavigationHeaderMarquee",
+                      "marqueeText": [{
+                        "__typename": "NavigationHeaderMarqueeMarqueeText",
+                        "text": "Welcome to our new website - some areas are still under construction. "
+                      }],
+                      "link": "/"
                     },
-                    "id": "tina/content/pages/home/home.md",
-                    "__typename": "Home",
-                    "title": "Home",
-                    "global": [
-                        {
-                            "__typename": "HomeGlobalNavigation",
-                            "navigation": {
-                                "__typename": "Navigation",
-                                "title": "navigation",
-                                "headerMarquee": {
-                                    "__typename": "NavigationHeaderMarquee",
-                                    "marqueeText": [
-                                        {
-                                            "__typename": "NavigationHeaderMarqueeMarqueeText",
-                                            "text": "Check out the latest RRE POV podcast feat. Matt Rendall, CEO of Clearpath Robotics & OTTO Motors "
-                                        }
-                                    ],
-                                    "link": "/rrepov"
-                                },
-                                "mainNavigation": [
-                                    {
-                                        "__typename": "NavigationMainNavigation",
-                                        "navLink": {
-                                            "__typename": "NavigationMainNavigationNavLink",
-                                            "text": "Home",
-                                            "url": "/",
-                                            "media": {
-                                                "__typename": "NavigationMainNavigationNavLinkMedia",
-                                                "caption": "hand icon svg",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/hand2.svg"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "__typename": "NavigationMainNavigation",
-                                        "navLink": {
-                                            "__typename": "NavigationMainNavigationNavLink",
-                                            "text": "Team",
-                                            "url": "/team",
-                                            "media": {
-                                                "__typename": "NavigationMainNavigationNavLinkMedia",
-                                                "caption": "pizza svg",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/pizza2.svg"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "__typename": "NavigationMainNavigation",
-                                        "navLink": {
-                                            "__typename": "NavigationMainNavigationNavLink",
-                                            "text": "Portfolio",
-                                            "url": "/portfolio",
-                                            "media": {
-                                                "__typename": "NavigationMainNavigationNavLinkMedia",
-                                                "caption": "folder icon svg",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/folder2.svg"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "__typename": "NavigationMainNavigation",
-                                        "navLink": {
-                                            "__typename": "NavigationMainNavigationNavLink",
-                                            "text": "About",
-                                            "url": "/about",
-                                            "media": {
-                                                "__typename": "NavigationMainNavigationNavLinkMedia",
-                                                "caption": "book icon svg",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/book2.svg"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "__typename": "NavigationMainNavigation",
-                                        "navLink": {
-                                            "__typename": "NavigationMainNavigationNavLink",
-                                            "text": "Services",
-                                            "url": "/focuses",
-                                            "media": {
-                                                "__typename": "NavigationMainNavigationNavLinkMedia",
-                                                "caption": "camera icon svg",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/camera2.svg"
-                                            }
-                                        }
-                                    }
-                                ],
-                                "subscribe": {
-                                    "__typename": "NavigationSubscribe",
-                                    "title": "Subscribe",
-                                    "description": "Sign up with your email address to receive news and updates.",
-                                    "linkText": "Your Email Address"
-                                },
-                                "externalLinksLeft": [
-                                    {
-                                        "__typename": "NavigationExternalLinksLeft",
-                                        "link": {
-                                            "__typename": "NavigationExternalLinksLeftLink",
-                                            "text": "X",
-                                            "url": "https://twitter.com/BandBGroupCH_"
-                                        }
-                                    },
-                                    {
-                                        "__typename": "NavigationExternalLinksLeft",
-                                        "link": {
-                                            "__typename": "NavigationExternalLinksLeftLink",
-                                            "text": "linkedin",
-                                            "url": "https://www.linkedin.com/company/BandBGroupCH/"
-                                        }
-                                    }
-                                ],
-                                "externalLinksRight": [
-                                    {
-                                        "__typename": "NavigationExternalLinksRight",
-                                        "link": {
-                                            "__typename": "NavigationExternalLinksRightLink",
-                                            "text": "blog",
-                                            "url": "/"
-                                        }
-                                    },
-                                    {
-                                        "__typename": "NavigationExternalLinksRight",
-                                        "link": {
-                                            "__typename": "NavigationExternalLinksRightLink",
-                                            "text": "Facebook",
-                                            "url": "https://www.facebook.com/BandBGroupCH"
-                                        }
-                                    }
-                                ],
-                                "footerInformation": {
-                                    "__typename": "NavigationFooterInformation",
-                                    "street": "OBERGRUNDSTR 117B",
-                                    "city": "6005 LUZERN",
-                                    "street_2": "PHONE",
-                                    "city_2": "‪+41 79 935 13 15‬",
-                                    "email": {
-                                        "__typename": "NavigationFooterInformationEmail",
-                                        "text": "info@bbgroup.ch",
-                                        "url": "mailto:info@bbgroup.ch"
-                                    },
-                                    "partnerLogin": {
-                                        "__typename": "NavigationFooterInformationPartnerLogin",
-                                         "text": "Intro to B&B",
-                                        "url": "https://pitch.bbgroup.ch/intro"
-                                    }
-                                },
-                                "_sys": {
-                                    "filename": "navigation",
-                                    "basename": "navigation.md",
-                                    "breadcrumbs": [
-                                        "navigation"
-                                    ],
-                                    "path": "tina/content/pages/navigation/navigation.md",
-                                    "relativePath": "navigation.md",
-                                    "extension": ".md"
-                                },
-                                "id": "tina/content/pages/navigation/navigation.md"
-                            }
-                        },
-                        {
-                            "__typename": "HomeGlobalLayout",
-                            "headerType": "primaryHeader",
-                            "footerType": "secondaryFooter"
-                        },
-                        {
-                            "__typename": "HomeGlobalMetadata",
-                            "title": "B&B Group - Building tomorrow.",
-                            "description": "B&B Group builds a better tomorrow, today.",
-                            "keywords": null,
-                            "image": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/og.png",
-                            "twitterHandle": "@BandBGroupCH_",
-                            "theme": {
-                                "__typename": "HomeGlobalMetadataTheme",
-                                "mask": "#FFD540",
-                                "tile": "#1072FA",
-                                "color": "#000000"
-                            }
+                    "mainNavigation": [{
+                      "__typename": "NavigationMainNavigation",
+                      "navLink": {
+                        "__typename": "NavigationMainNavigationNavLink",
+                        "text": "Home",
+                        "url": "/",
+                        "media": {
+                          "__typename": "NavigationMainNavigationNavLinkMedia",
+                          "caption": "hand icon svg",
+                          "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/hand2.svg"
                         }
-                    ],
-                    "sections": [
-                        {
-                            "__typename": "HomeSectionsHero",
-                            "title": {
-                                "type": "root",
-                                "children": [
-                                    {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "type": "text",
-                                                "text": "Building a better"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "type": "text",
-                                                "text": "tommorrow. Today."
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            "titleMobile": {
-                                "type": "root",
-                                "children": [
-                                    {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "type": "text",
-                                                "text": "Building a"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "type": "text",
-                                                "text": "better tomorrow."
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "type": "text",
-                                                "text": "Today."
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            "wordAndImages": [
-                                {
-                                    "__typename": "HomeSectionsHeroWordAndImages",
-                                    "word": "building",
-                                    "images": [
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "jay",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/jay1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "raju",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/raju1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "stuart",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/StuEllman.jpg"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "ibis",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/IbisHanzel.jpg"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "james-robinson",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/james1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "james3",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/james31.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "will",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/will1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "mckenna",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/mckenna1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "jonathan",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/jonathan1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "jenna",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/jenna1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "jason",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/jason1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "dennis",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/dennis1.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "matt",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/Matt1.png"
-                                            }
-                                        }
-                                    ],
-                                    "intenralLink": "/team"
-                                },
-                                {
-                                    "__typename": "HomeSectionsHeroWordAndImages",
-                                    "word": "tomorrow",
-                                    "images": [
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "enterprise",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Enterprise.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "silvercare",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Silvercare.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "consumer",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Consumer.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "fintech",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Fintech.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "healthcare",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Healtchare.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "media",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Media.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "robotics",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Robotics.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "real-estate",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Real Estate.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "pets",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Pets.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "space",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Space.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "climate",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Climate.png"
-                                            }
-                                        }
-                                    ],
-                                    "intenralLink": "/portfolio"
-                                },
-                                {
-                                    "__typename": "HomeSectionsHeroWordAndImages",
-                                    "word": "today",
-                                    "images": [
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "newyork6",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork6.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "newyork5",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork5.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "newyork4",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork4.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "newyork3",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork3.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "newyork2",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork2.png"
-                                            }
-                                        },
-                                        {
-                                            "__typename": "HomeSectionsHeroWordAndImagesImages",
-                                            "image": {
-                                                "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
-                                                "caption": "newyork1",
-                                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork1.png"
-                                            }
-                                        }
-                                    ],
-                                    "intenralLink": "/about"
-                                }
-                            ]
+                      }
+                    }, {
+                      "__typename": "NavigationMainNavigation",
+                      "navLink": {
+                        "__typename": "NavigationMainNavigationNavLink",
+                        "text": "Team",
+                        "url": "/team",
+                        "media": {
+                          "__typename": "NavigationMainNavigationNavLinkMedia",
+                          "caption": "pizza svg",
+                          "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/pizza2.svg"
                         }
-                    ]
-                }
+                      }
+                    }, {
+                      "__typename": "NavigationMainNavigation",
+                      "navLink": {
+                        "__typename": "NavigationMainNavigationNavLink",
+                        "text": "Portfolio",
+                        "url": "/portfolio",
+                        "media": {
+                          "__typename": "NavigationMainNavigationNavLinkMedia",
+                          "caption": "folder icon svg",
+                          "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/folder2.svg"
+                        }
+                      }
+                    }, {
+                      "__typename": "NavigationMainNavigation",
+                      "navLink": {
+                        "__typename": "NavigationMainNavigationNavLink",
+                        "text": "About",
+                        "url": "/about",
+                        "media": {
+                          "__typename": "NavigationMainNavigationNavLinkMedia",
+                          "caption": "book icon svg",
+                          "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/book2.svg"
+                        }
+                      }
+                    }, {
+                      "__typename": "NavigationMainNavigation",
+                      "navLink": {
+                        "__typename": "NavigationMainNavigationNavLink",
+                        "text": "Services",
+                        "url": "/focuses",
+                        "media": {
+                          "__typename": "NavigationMainNavigationNavLinkMedia",
+                          "caption": "camera icon svg",
+                          "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/assets/camera2.svg"
+                        }
+                      }
+                    }],
+                    "subscribe": {
+                      "__typename": "NavigationSubscribe",
+                      "title": "Subscribe",
+                      "description": "Sign up with your email address to receive news and updates.",
+                      "linkText": "Your Email Address"
+                    },
+                    "externalLinksLeft": [{
+                      "__typename": "NavigationExternalLinksLeft",
+                      "link": {
+                        "__typename": "NavigationExternalLinksLeftLink",
+                        "text": "X",
+                        "url": "https://twitter.com/BandBGroupCH_"
+                      }
+                    }, {
+                      "__typename": "NavigationExternalLinksLeft",
+                      "link": {
+                        "__typename": "NavigationExternalLinksLeftLink",
+                        "text": "linkedin",
+                        "url": "https://www.linkedin.com/company/BandBGroupCH/"
+                      }
+                    }],
+                    "externalLinksRight": [{
+                      "__typename": "NavigationExternalLinksRight",
+                      "link": {
+                        "__typename": "NavigationExternalLinksRightLink",
+                        "text": "blog",
+                        "url": "/"
+                      }
+                    }, {
+                      "__typename": "NavigationExternalLinksRight",
+                      "link": {
+                        "__typename": "NavigationExternalLinksRightLink",
+                        "text": "Facebook",
+                        "url": "rrepov.html"
+                      }
+                    }],
+                    "footerInformation": {
+                      "__typename": "NavigationFooterInformation",
+                      "street": "OBERGRUNDSTR 117B",
+                      "city": "6005 LUZERN",
+                      "street_2": "PHONE",
+                      "city_2": "‪+41 79 935 13 15‬",
+                      "email": {
+                        "__typename": "NavigationFooterInformationEmail",
+                        "text": "info@bbgroup.ch",
+                        "url": "mailto:info@bbgroup.ch"
+                      },
+                      "partnerLogin": {
+                        "__typename": "NavigationFooterInformationPartnerLogin",
+                        "text": "Intro to B&B",
+                         "url": "https://pitch.bbgroup.ch/intro"
+                      }
+                    },
+                    "_sys": {
+                      "filename": "navigation",
+                      "basename": "navigation.md",
+                      "breadcrumbs": ["navigation"],
+                      "path": "tina/content/pages/navigation/navigation.md",
+                      "relativePath": "navigation.md",
+                      "extension": ".md"
+                    },
+                    "id": "tina/content/pages/navigation/navigation.md"
+                  }
+                }, {
+                  "__typename": "HomeGlobalLayout",
+                  "headerType": "primaryHeader",
+                  "footerType": "secondaryFooter"
+                }, {
+                  "__typename": "HomeGlobalMetadata",
+                  "title": "B&B Group - Building tomorrow.",
+                  "description": "B&B Group builds a better tomorrow, today.",
+                  "keywords": null,
+                  "image": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/og.png",
+                  "twitterHandle": "@BandBGroupCH_",
+                  "theme": {
+                    "__typename": "HomeGlobalMetadataTheme",
+                    "mask": "#FFD540",
+                    "tile": "#1072FA",
+                    "color": "#000000"
+                  }
+                }],
+                "sections": [{
+                  "__typename": "HomeSectionsHero",
+                  "title": {
+                    "type": "root",
+                    "children": [{
+                      "type": "h1",
+                      "children": [{
+                        "type": "text",
+                        "text": "Building tomorrow."
+                      }]
+                    }, {
+                      "type": "h1",
+                      "children": [{
+                        "type": "text",
+                        "text": ""
+                      }]
+                    }]
+                  },
+                  "titleMobile": {
+                    "type": "root",
+                    "children": [{
+                      "type": "h1",
+                      "children": [{
+                        "type": "text",
+                        "text": "Building"
+                      }]
+                    }, {
+                      "type": "h1",
+                      "children": [{
+                        "type": "text",
+                        "text": "tomorrow."
+                      }]
+                    }, {
+                      "type": "h1",
+                      "children": [{
+                        "type": "text",
+                        "text": ""
+                      }]
+                    }]
+                  },
+                  "wordAndImages": [{
+                    "__typename": "HomeSectionsHeroWordAndImages",
+                    "word": "tomorrow.",
+                    "images": [{
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "matt",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/team/Desktop/Matt1.png"
+                      }
+                    }],
+                    "intenralLink": "/about"
+                  }, {
+                    "__typename": "HomeSectionsHeroWordAndImages",
+                    "word": "tomorrow.",
+                    "images": [{
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "enterprise",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Enterprise.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "silvercare",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Silvercare.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "consumer",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Consumer.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "fintech",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Fintech.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "healthcare",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Healtchare.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "media",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Media.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "robotics",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Robotics.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "real-estate",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Real Estate.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "pets",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Pets.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "space",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Space.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "climate",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/focuses/Climate.png"
+                      }
+                    }],
+                    "intenralLink": "/portfolio"
+                  }, {
+                    "__typename": "HomeSectionsHeroWordAndImages",
+                    "word": "today",
+                    "images": [{
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "newyork6",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork6.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "newyork5",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork5.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "newyork4",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork4.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "newyork3",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork3.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "newyork2",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork2.png"
+                      }
+                    }, {
+                      "__typename": "HomeSectionsHeroWordAndImagesImages",
+                      "image": {
+                        "__typename": "HomeSectionsHeroWordAndImagesImagesImage",
+                        "caption": "newyork1",
+                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/home/newyork1.png"
+                      }
+                    }],
+                    "intenralLink": "/about"
+                  }]
+                }]
+              }
             },
             "errors": null,
             "query": "\n    query home($relativePath: String!) {\n  home(relativePath: $relativePath) {\n    ... on Document {\n      _sys {\n        filename\n        basename\n        breadcrumbs\n        path\n        relativePath\n        extension\n      }\n      id\n    }\n    ...HomeParts\n  }\n}\n    \n    fragment HomeParts on Home {\n  __typename\n  title\n  global {\n    __typename\n    ... on HomeGlobalMetadata {\n      title\n      description\n      keywords\n      image\n      twitterHandle\n      theme {\n        __typename\n        mask\n        tile\n        color\n      }\n    }\n    ... on HomeGlobalLayout {\n      headerType\n      footerType\n    }\n    ... on HomeGlobalNavigation {\n      navigation {\n        ... on Navigation {\n          __typename\n          title\n          headerMarquee {\n            __typename\n            marqueeText {\n              __typename\n              text\n            }\n            link\n          }\n          mainNavigation {\n            __typename\n            navLink {\n              __typename\n              text\n              url\n              media {\n                __typename\n                caption\n                source\n              }\n            }\n          }\n          subscribe {\n            __typename\n            title\n            description\n            linkText\n          }\n          externalLinksLeft {\n            __typename\n            link {\n              __typename\n              text\n              url\n            }\n          }\n          externalLinksRight {\n            __typename\n            link {\n              __typename\n              text\n              url\n            }\n          }\n          footerInformation {\n            __typename\n            street\n            city\n            street_2\n            city_2\n            email {\n              __typename\n              text\n              url\n            }\n            partnerLogin {\n              __typename\n              text\n              url\n            }\n          }\n        }\n        ... on Document {\n          _sys {\n            filename\n            basename\n            breadcrumbs\n            path\n            relativePath\n            extension\n          }\n          id\n        }\n      }\n    }\n  }\n  sections {\n    __typename\n    ... on HomeSectionsHero {\n      title\n      titleMobile\n      wordAndImages {\n        __typename\n        word\n        images {\n          __typename\n          image {\n            __typename\n            caption\n            source\n          }\n        }\n        intenralLink\n      }\n    }\n  }\n}\n    ",
             "variables": {
-                "relativePath": "home.md"
+              "relativePath": "home.md"
             }
+          },
+          "id": "home"
         },
-        "id": "home"
-    },
-    "__N_SSG": true
+        "__N_SSG": true
 }
