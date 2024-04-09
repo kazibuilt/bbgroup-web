@@ -1,7 +1,7 @@
 {
     "rewrites": [
       {
-        "source": "_next/image?url=",
+        "source": "/_next/image?url=",
         "destination": "/_next/"
       }
     ]
