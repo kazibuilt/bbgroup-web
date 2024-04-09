@@ -199,7 +199,7 @@
                             "image": {
                                 "__typename": "FocusSectionsHeroImage",
                                 "caption": "new-york",
-                                "source": "/_next/newyork.png",
+                                "source": "newyork.png",
                                 "mobileCaption": "mobile-test",
                                 "mobileSource": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/about-mobile-bg.jpg"
                             }
@@ -220,19 +220,19 @@
                     {
                         "media": {
                             "caption": "climate3",
-                            "source": "/_next/climate3.png"
+                            "source": "climate3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "climate2",
-                            "source": "/_next/climate2.png"
+                            "source": "climate2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "climate-1",
-                            "source": "/_next/climate1.png"
+                            "source": "climate1.png"
                         }
                     }
                 ],
@@ -285,19 +285,19 @@
                     {
                         "media": {
                             "caption": "consumer3",
-                            "source": "/_next/consumer3.png"
+                            "source": "consumer3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "consumer2",
-                            "source": "/_next/consumer2.png"
+                            "source": "consumer2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "consumer-1",
-                            "source": "/_next/consumer1.png"
+                            "source": "consumer1.png"
                         }
                     }
                 ],
@@ -465,19 +465,19 @@
                     {
                         "media": {
                             "caption": "crypto4",
-                            "source": "/_next/crypto4.png"
+                            "source": "crypto4.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "crypto3",
-                            "source": "/_next/crypto3.png"
+                            "source": "crypto3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "crypto2",
-                            "source": "/_next/crypto2.png"
+                            "source": "crypto2.png"
                         }
                     }
                 ],
@@ -570,19 +570,19 @@
                     {
                         "media": {
                             "caption": "enterprise3",
-                            "source": "/_next/enterprise3.png"
+                            "source": "enterprise3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "enterprise2",
-                            "source": "/_next/enterprise2.png"
+                            "source": "enterprise2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "enterprise-1",
-                            "source": "/_next/enterprise1.png"
+                            "source": "enterprise1.png"
                         }
                     }
                 ],
@@ -955,19 +955,19 @@
                     {
                         "media": {
                             "caption": "fintech3",
-                            "source": "/_next/fintech3.png"
+                            "source": "fintech3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "fintech2",
-                            "source": "/_next/fintech2.png"
+                            "source": "fintech2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "fintech-1",
-                            "source": "/_next/fintech1.png"
+                            "source": "fintech1.png"
                         }
                     }
                 ],
@@ -1205,19 +1205,19 @@
                     {
                         "media": {
                             "caption": "healthcare3",
-                            "source": "/_next/healthcare3.png"
+                            "source": "healthcare3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "healthcare2",
-                            "source": "/_next/healthcare2.png"
+                            "source": "healthcare2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "healthcare1-1",
-                            "source": "/_next/healhcare1.png"
+                            "source": "healhcare1.png"
                         }
                     }
                 ],
@@ -1315,19 +1315,19 @@
                     {
                         "media": {
                             "caption": "media4",
-                            "source": "/_next/media4.png"
+                            "source": "media4.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "media3",
-                            "source": "/_next/media3.png"
+                            "source": "media3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "media2",
-                            "source": "/_next/media2.png"
+                            "source": "media2.png"
                         }
                     }
                 ],
@@ -1500,19 +1500,19 @@
                     {
                         "media": {
                             "caption": "pets3",
-                            "source": "/_next/pet3.png"
+                            "source": "pet3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "pets2",
-                            "source": "/_next/pet2.png"
+                            "source": "pet2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "pets-1",
-                            "source": "/_next/pet1.png"
+                            "source": "pet1.png"
                         }
                     }
                 ],
@@ -1535,19 +1535,19 @@
                     {
                         "media": {
                             "caption": "real-estate3",
-                            "source": "/_next/realestate3.png"
+                            "source": "realestate3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "real-estate2",
-                            "source": "/_next/realestate2.png"
+                            "source": "realestate2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "real estate-1",
-                            "source": "/_next/realestate1.png"
+                            "source": "realestate1.png"
                         }
                     }
                 ],
@@ -1595,19 +1595,19 @@
                     {
                         "media": {
                             "caption": "robots3",
-                            "source": "/_next/robot3.png"
+                            "source": "robot3.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "robots2",
-                            "source": "/_next/robot2.png"
+                            "source": "robot2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "robotics-1",
-                            "source": "/_next/robot.png"
+                            "source": "robot.png"
                         }
                     }
                 ],
@@ -1645,13 +1645,13 @@
                     {
                         "media": {
                             "caption": "silvercare-2",
-                            "source": "/_next/silvercare2.png"
+                            "source": "silvercare2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "silvercare-1",
-                            "source": "/_next/silvercare1.png"
+                            "source": "silvercare1.png"
                         }
                     }
                 ],
@@ -1669,19 +1669,19 @@
                     {
                         "media": {
                             "caption": "space-3",
-                            "source": "/_next/space4.png"
+                            "source": "space4.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "space-2",
-                            "source": "/_next/space2.png"
+                            "source": "space2.png"
                         }
                     },
                     {
                         "media": {
                             "caption": "space-1",
-                            "source": "/_next/space1.png"
+                            "source": "space1.png"
                         }
                     }
                 ],
