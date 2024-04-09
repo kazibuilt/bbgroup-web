@@ -181,7 +181,7 @@
                             "title": "RRE",
                             "description": "B&B Group builds a better tomorrow, today.",
                             "keywords": null,
-                            "image": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/og.png",
+                            "image": "og.png",
                             "twitterHandle": "@RRE",
                             "theme": {
                                 "__typename": "AboutGlobalMetadataTheme",
@@ -197,12 +197,12 @@
                             "bgImage": {
                                 "__typename": "AboutSectionsHeroBgImage",
                                 "caption": "abouthero-mobile",
-                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/AboutHero.png"
+                                "source": "AboutHero.png"
                             },
                             "icon": {
                                 "__typename": "AboutSectionsHeroIcon",
                                 "caption": "book Icon",
-                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/book-icon.svg"
+                                "source": "book-icon.svg"
                             },
                             "title": "Backing the best since 1994.",
                             "description": "Since our first investment in a hotel entertainment and internet company, we’ve become one of the oldest, largest, and most active venture capital firms in NYC."
@@ -262,9 +262,9 @@
                             "image": {
                                 "__typename": "AboutSectionsMiddleImageImage",
                                 "caption": "image placeholder",
-                                "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/about-media-placeholder.jpg",
+                                "source": "about-media-placeholder.jpg",
                                 "mobileCaption": "imagemid",
-                                "mobileSource": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/AboutMid.png"
+                                "mobileSource": "AboutMid.png"
                             }
                         },
                         {
@@ -352,9 +352,9 @@
                                     "media": {
                                         "__typename": "AboutSectionsMediumImagesMedia",
                                         "caption": "medium1",
-                                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/medium1desktop.png",
+                                        "source": "medium1desktop.png",
                                         "mobileCaption": "mediummobile1",
-                                        "mobileSource": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/medium1.png"
+                                        "mobileSource": "medium1.png"
                                     }
                                 },
                                 {
@@ -362,9 +362,9 @@
                                     "media": {
                                         "__typename": "AboutSectionsMediumImagesMedia",
                                         "caption": "medium2",
-                                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/medium2desktop.png",
+                                        "source": "medium2desktop.png",
                                         "mobileCaption": "mediummobile2",
-                                        "mobileSource": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/medium2.png"
+                                        "mobileSource": "medium2.png"
                                     }
                                 },
                                 {
@@ -372,9 +372,9 @@
                                     "media": {
                                         "__typename": "AboutSectionsMediumImagesMedia",
                                         "caption": "medium3",
-                                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/mediumdesktop3.png",
+                                        "source": "mediumdesktop3.png",
                                         "mobileCaption": "mediummobile3",
-                                        "mobileSource": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/medium3.png"
+                                        "mobileSource": "medium3.png"
                                     }
                                 },
                                 {
@@ -382,9 +382,9 @@
                                     "media": {
                                         "__typename": "AboutSectionsMediumImagesMedia",
                                         "caption": "medium4",
-                                        "source": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/mediumdesktop4.png",
+                                        "source": "mediumdesktop4.png",
                                         "mobileCaption": "mediummobile4",
-                                        "mobileSource": "https://assets.tina.io/ece9d4e6-5d1d-466d-b99b-15cdd7ab9b76/About/medium4.png"
+                                        "mobileSource": "medium4.png"
                                     }
                                 }
                             ]
