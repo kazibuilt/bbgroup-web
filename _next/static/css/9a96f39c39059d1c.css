@@ -994,6 +994,11 @@ svg.icon rect[stroke] {
     overscroll-behavior: contain
 }
 
+.about_prefooter__fj52U {
+    display: none !important;
+}
+
+
 .noise_overlay {
     z-index: 2147483647;
     opacity: .04;
