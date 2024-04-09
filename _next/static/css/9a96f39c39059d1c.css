@@ -1015,3 +1015,32 @@ svg.icon rect[stroke] {
     width: 100vw;
     pointer-events: none;
     }
+
+    div.navigation_content__04O4b.layout-grid-inner > div > ul > li:nth-child(2)  {
+        display: none !important;
+    }
+    
+    div.navigation_content__04O4b.layout-grid-inner > div > ul > li:nth-child(3)  {
+        display: none !important;
+    }
+    
+    
+    .navigation_right__AvSVI {
+        display: none !important;
+    }
+    
+    .about_prefooter__fj52U {
+        display: none !important;
+      }
+      
+      .loader_logo__qre5I {
+        display: none !important;
+      }
+    
+      div.footer_first-column__mMAUE > ul > li:nth-child(2) {
+        display: none !important;
+    }
+    
+    div.footer_first-column__mMAUE > ul > li:nth-child(3) {
+        display: none !important;
+    }
