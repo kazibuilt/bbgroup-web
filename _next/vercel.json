@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/_next/image?url=:path*",
+        "destination": ":path*"
+      }
+    ]
+  }
+
