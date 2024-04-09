@@ -200,45 +200,45 @@
                                   "caption": "book Icon",
                                   "source": "book-icon.svg"
                                 },
-                                "title": "Backing the best since 1994.",
+                                "title": "B&B Group builds a better tomorrow, today.",
                                 "description": "We are a new company, but one built on solid foundations. Our team has been involved in the construction and real estate business areas for decades."
                               }, {
                                 "__typename": "AboutSectionsHeroMarquee",
                                 "marquee": [{
                                   "__typename": "AboutSectionsHeroMarqueeMarquee",
                                   "number": "$2.5B+",
-                                  "detail": "AUM"
+                                  "detail": "Fact1"
                                 }, {
                                   "__typename": "AboutSectionsHeroMarqueeMarquee",
                                   "number": "125+",
-                                  "detail": "Exits"
+                                  "detail": "Fact2"
                                 }, {
                                   "__typename": "AboutSectionsHeroMarqueeMarquee",
                                   "number": "400 +",
-                                  "detail": "companies"
+                                  "detail": "Fact3"
                                 }, {
                                   "__typename": "AboutSectionsHeroMarqueeMarquee",
                                   "number": "1,000 +",
-                                  "detail": "ROUNDS"
+                                  "detail": "Fact4"
                                 }, {
                                   "__typename": "AboutSectionsHeroMarqueeMarquee",
                                   "number": "10",
-                                  "detail": "Funds"
+                                  "detail": "Fact5"
                                 }]
                               }, {
                                 "__typename": "AboutSectionsTextBlockOne",
                                 "titleAndDescription": [{
                                   "__typename": "AboutSectionsTextBlockOneTitleAndDescription",
                                   "title": "Our Ethos",
-                                  "description": "We invest almost exclusively in the United States and Canada, though we make exceptions for certain natively global industries."
+                                  "description": "Placeholder text for now. Placeholder text for now. Placeholder text for now."
                                 }, {
                                   "__typename": "AboutSectionsTextBlockOneTitleAndDescription",
-                                  "title": "primary",
-                                  "description": "Primary investments are 95% of our capital allocation. We focus on the stage of the company, not the name of the round. As a result, we lead or co-lead rounds between $5-20M with an initial investment of $3-8M with capital reserved for follow-on investments."
+                                  "title": "Our Story",
+                                  "description": "Placeholder text for now. Placeholder text for now. Placeholder text for now."
                                 }, {
                                   "__typename": "AboutSectionsTextBlockOneTitleAndDescription",
-                                  "title": "SEED",
-                                  "description": "Seed investments make up the remainder of our allocation. While we will, on occasion, end up leading a larger Seed round, we usually find ourselves participating in the round with an initial check size of $250k. For these investments, we do not take board seats."
+                                  "title": "Our Motto",
+                                  "description": "Placeholder text for now. Placeholder text for now. Placeholder text for now."
                                 }]
                               }, {
                                 "__typename": "AboutSectionsMiddleImage",
